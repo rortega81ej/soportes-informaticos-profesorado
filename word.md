@@ -1,0 +1,3 @@
+# WORD
+
+{% include "./disclaimer.md" %}
