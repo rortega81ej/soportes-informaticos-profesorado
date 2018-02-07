@@ -1,4 +1,3 @@
-
 # Fotos
 
 ## **Flickr**
@@ -8,14 +7,7 @@ A veces en una actividad presencial, se crean fotos y todo el mundo necesita ver
 - Crear un enlace y todo el mundo puede ver las fotos
 - O incrustar una imagen del álbum que tiene un enlace a todas las fotos, en nuestra web o blog, este es un ejemplo embebido:
 
-*** ***
-
-
-![](https://c1.staticflickr.com/2/1461/25039648516_327670c82c_z.jpg)
-<script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8" type="text/javascript"></script>
-
-
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/138553622@N02/albums/72157664586263612" title="JORNADAS ROBOTICA 2016"><img src="https://farm2.staticflickr.com/1461/25039648516_327670c82c_z.jpg" width="640" height="480" alt="JORNADAS ROBOTICA 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## ¿Cómo se hace flickr?
 
@@ -24,16 +16,16 @@ A veces en una actividad presencial, se crean fotos y todo el mundo necesita ver
 2.- Creas un Album
 
 
-![](img/Screenshot_(1).png)
+![](img/Screenshot1.png)
 
 3.- Se abre una ventana para arrastrar las fotos
 
 
-![](img/Screenshot_(2).png)
+![](img/Screenshot2.png)
 
 ## 
 
-4.- .En la barra de menús de Flickr selecciona "****Tus álbumes".****
+4.- .En la barra de menús de Flickr selecciona **"Tus álbumes".**
 
 
 ![](img/flickr1.png)
@@ -49,34 +41,17 @@ A veces en una actividad presencial, se crean fotos y todo el mundo necesita ver
 
 6.- Y luego sale el código embed en Insertar:
 
-
 ![](img/flickr-2.png)
-
-
 
 **Ojo, que hay que compartir EL ÁLBUM no la foto**
 
 Esto ESTA BIEN compartir ÁLBUM
 
-  
-
-
-![](https://farm2.staticflickr.com/1461/25039648516_327670c82c.jpg)
-
- 
-
- 
-
-  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/138553622@N02/albums/72157664586263612" title="JORNADAS ROBOTICA 2016"><img src="https://farm2.staticflickr.com/1461/25039648516_327670c82c_z.jpg" width="640" height="480" alt="JORNADAS ROBOTICA 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ESTO ESTA MAL, COMPARTIR FOTO
 
- 
-
-
-![](https://farm2.staticflickr.com/1461/25039648516_327670c82c.jpg)
-
- 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/138553622@N02/25039648516/in/album-72157664586263612/" title="DSC00784"><img src="https://farm2.staticflickr.com/1461/25039648516_327670c82c_z.jpg" width="640" height="480" alt="DSC00784"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ¿no ves la diferencia? pues haz click en cada uno y verás
 
@@ -88,5 +63,4 @@ Google Fotos permite crear un álbum, compartirlo con otras personas y que los q
 
 El inconveniente que tiene es que no permite embeber
 
-En[ este enlace ](http://aularagon.catedu.es/materialesaularagon2013/blogs/M2_contenido/fotos_google.html)puedes ver cómo se hace
-
+En [este enlace ](http://aularagon.catedu.es/materialesaularagon2013/blogs/M2_contenido/fotos_google.html) puedes ver cómo se hace.

@@ -1,6 +1,4 @@
-
 # Moodle
-
 
 ![](img/descarga.jpg)
 
@@ -12,7 +10,6 @@ Si la actividad tiene parte que se tiene que hacer en red, lo mejor es pedir un 
 
 Para crear un Moodle tienes que hacer igual que Word Press, pedirlo en CATEDU Registrar
 
-
 ![](img/2017-02-04_09_47_29-Catedu.png)
 
 Una vez que recibimos de CATEDU el usuario y la contraseña, vamos a ver:
@@ -21,4 +18,3 @@ Una vez que recibimos de CATEDU el usuario y la contraseña, vamos a ver:
 - Poner actividades
 - matricular participantes
 - tutorizar
-

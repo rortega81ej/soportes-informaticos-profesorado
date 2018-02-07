@@ -10,3 +10,4 @@ En Moolde podemos poner muchos tipos de actividades. Nosotros recomendamos estos
 
 Como en este curso el objetivo no es aprender todos los soportes, sino conocerlos, sólo mostramos cómo crear una actividad tipo Tarea[ en formato FLASH](http://aularagon.catedu.es/materialesaularagon2013/HerramientasFormacionProfesorado/Videos/PonerActividadTareaMoodle.htm) o aquí en [PDF ](http://aularagon.catedu.es/materialesaularagon2013/HerramientasFormacionProfesorado/Videos/PonerActividadTareaMoodle.pdf)si no lo ves bien
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYcV72deoAG_wwcGk4mfTQTZ57WVlRNkB5Prdabom3WkjgmhYH4N_tvulN5SvGvTtWbdEHao68F8On/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

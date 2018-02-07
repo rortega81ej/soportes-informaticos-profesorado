@@ -1,6 +1,4 @@
-
 # Blogger
-
 
 ![](img/eblogger.png)
 

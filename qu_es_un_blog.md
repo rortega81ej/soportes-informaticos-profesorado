@@ -1,4 +1,3 @@
-
 # ¿Qué es un blog?
 
 Antes de empezar con **WordPress** y **Blogger**, unos conceptos básicos:
@@ -10,7 +9,6 @@ Dentro del blog también encontraremos las **páginas**. Podrían parecerse a l
 Las **categorías** son las diferentes secciones que estableceremos dentro del blog. Por ejemplo: ejercicios, artículos de interés, repaso, entra en examen…
 
 Otra palabra que encontraremos al publicar los posts es **“tag”** o **etiqueta**. Es la palabra o palabras que definen el tema sobre el que trata ese post. Ayudan a posicionar el artículo dentro de los buscadores. Por ejemplo, un artículo sobre el último rediseño de Twitter debería llevar los tags: Twitter, diseño, rediseño, redes sociales, social media…
-
 
 ![](img/Captura_de_pantalla_2016-04-22_a_las_10.38.54.png)
 

@@ -47,7 +47,7 @@ ____
 ### 4. Contenidos y participación
 * [Soportes en la actividad](index3.md)
 * [Contenidos](contenidos.md)
-* [Â¿Cual utilizo?](cual_utilizo.md)
+* [¿Cuál utilizo?](cual_utilizo.md)
 * [¿Qué es un blog?](qu_es_un_blog.md)
 * [¿Qué es "embeber"?](qu_es_embeber.md)
 * [Blogger](blogger.md)
@@ -82,4 +82,3 @@ ____
     * [Cómo se envía](cmo_se_enva.md)
     * [Y si lo pruebas](y_si_lo_pruebas.md)
     * [Alternativa PlayBuzz](alternativa_playbuzz.md)
-        * [Unidad](unidad.md)

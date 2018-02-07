@@ -11,13 +11,12 @@ En general la técnica es común a los editores WYSIWYG. (es el acrónimo de Wha
 - **Presentaciones** = Slideshare, SlideBoom...
 - Revistas, libros, textos en **PDF** = Issu, ...
 - Libros electrónicos **EPub** = Scribd...
-<li>**Fotos** = Flickr, Google Fotos ...
-<ul>
-- ¡¡ideal !!!, en nuestro blog podemos tener un carrusel de fotos del álbum de nuestra actividad.
-
-- ¡¡ perfecto !!!, podemos en nuestro blog tener una encuesta de la actividad.
-
-- En nuestros artículos podemos tener un muro donde la gente sin necesidad de registrarse, colgar vídeos, enlaces...
+- **Fotos** = Flickr, Google Fotos ...
+    - ¡¡ideal !!!, en nuestro blog podemos tener un carrusel de fotos del álbum de nuestra actividad.
+- **Encuestas** = Google Forms (esto lo veremos en el módulo 3)    
+    - ¡¡ perfecto !!!, podemos en nuestro blog tener una encuesta de la actividad.
+- Un **muro** = Padlet
+    - En nuestros artículos podemos tener un muro donde la gente sin necesidad de registrarse, colgar vídeos, enlaces...
 
 Hay muchos portales, alojadores, aplicaciones... todo esto es un mundo en continuo cambio. 
 
@@ -25,16 +24,13 @@ Hay muchos portales, alojadores, aplicaciones... todo esto es un mundo en contin
 
 La **TÉCNICA** es sencilla:
 
-
-![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2bl_sMdiGOUlFAFQJW9KZ4CIxJz286l8iq4ril2vdnmcN7_LFgg)
+1. CONSEGUIR EL CÓDIGO EMBED Hay que utilizar la intuición para buscar el código embed, a veces con el botón <> otras con la palabra compartir o con el símbolo ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2bl_sMdiGOUlFAFQJW9KZ4CIxJz286l8iq4ril2vdnmcN7_LFgg), etc.
 1. Entrar en el artículo donde quieres insertar, y buscar el botón **HTML**, &lt;&gt; en Arablogs, Blogger o WordPress.. e insertar el código embed.
 
 ## Vale, pero sé más concreto...
 
 Ok, mira estos enlaces para estos dos casos particulares
 
-<li>
-**Word Press : [Como embeber todo lo que quieras en WP](http://facilytic.catedu.es/2013/06/13/como-embeber-todo-lo-que-quieras-en-wordpress-org/)**
-</li>
-- **Blogger :**[ Cómo insertar multimedia en Blogger](http://es.slideshare.net/rafaelballesteros1/cmo-embeber-insertar-contenidos-multimedia-en-blogger-28834549)
+- **Word Press:** [Como embeber todo lo que quieras en WP](http://facilytic.catedu.es/2013/06/13/como-embeber-todo-lo-que-quieras-en-wordpress-org/)
+- **Blogger:** [ Cómo insertar multimedia en Blogger](http://es.slideshare.net/rafaelballesteros1/cmo-embeber-insertar-contenidos-multimedia-en-blogger-28834549)
 

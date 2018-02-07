@@ -1,4 +1,3 @@
-
 # Hashtag
 
 Twitter nos permite hacer un foro entre los participantes de una actividad, simplemente utilizando Hashtag
@@ -15,13 +14,12 @@ Sí por supuesto, puede ser que ya se ha usado o en uso (ponlo en la lupa de twi
 
 Permite crear un micro-foro con cualquiera usando Twitter pues conecta varias personas con sólo una palabra. Por lógica hay dos tipos:
 
-<li>**Chats sincronizados**: Donde todos comentan en una hora concreta lo que quieran:
-<ul>
-- Puede ser en la misma actividad y todos comentar lo que dice el ponente, en este caso se recomienda **proyectar** en directo lo que dice la audiencia, muy recomendable en ponencias, conferencias.... pero sólo podrán participar los que tengan cuenta en Twitter y tengan un dispositivo para hacerlo, por ejemplo un smartphone.
-- O hacer un debate en directo, quedar en una hora determinada y twittear, como pasa en [#eduhora](https://twitter.com/search?q=%23eduhora&amp;src=typd)
-
-- Podemos poner en la página web de la actividad los tweets y un botón para twittear
-- Vamos a hacerlo con el hashtag [#soportesformacion](https://twitter.com/search?q=%23soportesformacion&amp;src=typd) 
+- **Chats sincronizados**: Donde todos comentan en una hora concreta lo que quieran:
+    - Puede ser en la misma actividad y todos comentar lo que dice el ponente, en este caso se recomienda **proyectar** en directo lo que dice la audiencia, muy recomendable en ponencias, conferencias.... pero sólo podrán participar los que tengan cuenta en Twitter y tengan un dispositivo para hacerlo, por ejemplo un smartphone.
+    - O hacer un debate en directo, quedar en una hora determinada y twittear, como pasa en [#eduhora](https://twitter.com/search?q=%23eduhora&amp;src=typd)
+- **Chats asincronos**: Por ejemplo este curso es on-line y cualquier persona entra y sale a cualquier hora, podemos crear un foro donde comentar lo que queramos (más o menos lo que hicimos en el muro del Tema 2)
+    - Podemos poner en la página web de la actividad los tweets y un botón para twittear
+    - Vamos a hacerlo con el hashtag [#soportesformacion](https://twitter.com/search?q=%23soportesformacion&amp;src=typd) 
 
 ## Vamos a embeberlo
 

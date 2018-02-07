@@ -10,9 +10,9 @@ Recomendamos utilizar el streeming en directo de **Hangout Air para el foro** y 
 
 ## No nos cansaremos de repetirlo...
 
-El objetivo de este curso NO ES QUE CONTROLES TODAS LAS HERRAMIENTAS imposible !!!
+El objetivo de este curso NO ES QUE CONTROLES TODAS LAS HERRAMIENTAS imposible!!!
 
-El mejor ejemplo es esta página ¿con un simple vídeo pretendemos que controles el Streaming en directo con Hangout  ?????? **NO**, por supuesto 
+El mejor ejemplo es esta página ¿con un simple vídeo pretendemos que controles el Streaming en directo con Hangout?????? **NO**, por supuesto.
 
 Pero sí que sepas **elegir** qué herramienta es la más conveniente para tu actividad y ampliar tu conocimiento de** posibles herramientas** que te pueden ayudar para que tu actividad sea un éxito.
 

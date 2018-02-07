@@ -1,4 +1,3 @@
-
 # Contenidos
 
 ## CMS y LCMS
@@ -24,6 +23,4 @@ En estas herramientas pedimos que los participantes colaboren en los contenidos 
 - **Padlet** es una opción sencilla tipo muro donde los participantes puede poner sus ideas ideal para braimstormings digitales.
 - **Fotos**: Donde los participantes pueden ver y colaborar en las fotos de la actividad. Esto es adecuado para participantes donde la convivencia y la identidad de equipo es un objetivo importante.
 
-
 ![](https://docs.google.com/drawings/d/1Us8p-eRwfk5Yrz6xIIHn1PiLCS2u5aRuwJvXhHluLSQ/pub?w=1102&amp;h=794)
-

@@ -1,11 +1,12 @@
-
 # Como crear un blog
 
 Aquí tienes[ un sencillo video tutorial en formato FLASH ](http://aularagon.catedu.es/materialesaularagon2013/blogs/videos/CrearBlogger.htm)de cómo crear tu blog en Blogger en formato[ PDF si lo ves mal](http://aularagon.catedu.es/materialesaularagon2013/blogs/videos/CrearBlogger.pdf)
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3H_gGGZzNXT_FZMGPVcwFH33AOb2QyRe_Sh2arODdZ9kUT-vNnhbjpaIaI455qgFI8WlmTyLazHxa/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 En este sencillo pero interesante y útil manual, viene todo explicado con gran detalle, [**manual de Raul Diego Obregón.**](http://www.rauldiego.es/manual-blogger/)
 
-Este otro****** [manual de JR Olalla](http://jr2punto0.blogspot.com.es/2013/11/publicar-en-arablogs.html) **es más sencillo que el anterior, en 10 páginas explica Blogger
+Este otro **[manual de JR Olalla](http://jr2punto0.blogspot.com.es/2013/11/publicar-en-arablogs.html)** es más sencillo que el anterior, en 10 páginas explica Blogger
 
 Ventajas para su uso:
 

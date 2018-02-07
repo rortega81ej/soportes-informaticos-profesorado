@@ -1,4 +1,3 @@
-
 # Exelearning
 
 [Exelearning ](http://exelearning.net/) Sólo sirve para crear contenidos y publicarlos.** Esto que ves está creado en Exelarning.**
@@ -9,7 +8,7 @@ Es una aplicación que se descarga, se crean los contenidos muy fácilmente, per
 
 Se exporta todo en formato HTML en una carpeta local de nuestro ordenador y se sube a otra carpeta de un servidor remoto, esto último requiere que pidamos una cuenta FTP a CATEDU y por medio de algún programa tipo Filezilla se sube toda nuestra carpeta local al servidor.
 
-Otra manera cómoda es ponerlo en nuestra carpeta de Dropbox o Drive y automáticamente esta publicado pero implica gastar espacio personal de estas aplicaciones. [+info](http://aularagon.catedu.es/materialesaularagon2013/ManualCreadoresAularagon/ManualCreadores/publicar_el_contenido.html)
+Otra manera cómoda es ponerlo en nuestra carpeta de Dropbox o Drive y automáticamente esta publicado pero implica gastar espacio personal de estas aplicaciones.
 
 ## Desventajas
 
@@ -19,7 +18,4 @@ En CATEDU estamos trabajando en otros formatos para nuestros cursos tipo WikiEdu
 
 ## Tutorial
 
-Para contenidos normales con esto es suficiente [Exelarning básico](http://aularagon.catedu.es/materialesaularagon2013/ManualCreadoresAularagon/ManualCreadores/exelearning_bsico.html)
-
-Para contenidos tipo TIC entonces [Exelarning avanzado](http://aularagon.catedu.es/materialesaularagon2013/ManualCreadoresAularagon/ManualCreadores/exelearning_avanzado.html)
-
+Con [este tutorial](http://exelearning.net/html_manual/exe_es/index.html) tendrás un conocimiento avanzado.

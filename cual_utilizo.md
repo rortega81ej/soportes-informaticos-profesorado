@@ -1,4 +1,3 @@
-
 # ¿Cual utilizo?
 
 Buena pregunta, y como siempre depende de para qué y lo que escribamos aquí no se debe de tomar al pie de la letra:
@@ -18,7 +17,6 @@ Un **Google Classroom** lo vemos apropiado para crear contenidos, documentos, co
 Las **fotos** es apropiado para resaltar la parte identidad de equipo, convivencia... a nivel de actividad, con una cuenta de Flick o Google podemos abrir tantos álbumes-actividades como queramos y embeber esas fotos en el blog por ejemplo. También es ideal para unas** jornadas, congreso... **
 
 Un muro con **Padlet** es ideal para que los participantes hagan una lluvia de ideas, enriquezcan contenidos... de forma digital o no presencial, en este curso estas viendo unos cuantos ¡¡ participa !!!
-
 
 ![](https://docs.google.com/drawings/d/1xxhfhnkBOdyTwSijiMszP75EG3OsPW6JemGb7Be116k/pub?w=1189&amp;h=792)
 
