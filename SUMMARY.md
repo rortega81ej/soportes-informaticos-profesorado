@@ -68,7 +68,7 @@
   * [4.7.3 Matricular participantes](matricular_participantes.md)
   * [4.7.4 Tutorizar](tutorizar.md)
 * [4.8 EdModo](edmodo.md)
-* [Exelearning](exelearning.md)
+* [4.9 GitBook](exelearning.md)
 * [Muro Padlet](muro_padlet.md)
 * [Fotos](fotos.md)
 
