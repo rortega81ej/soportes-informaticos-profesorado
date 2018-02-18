@@ -1,6 +1,8 @@
 # Mira lo que tú quieres y no lo que FACEBOOK quiere que veas
 
-La página de inicio nuestra suele estar tan llena y con la prioridad que manda FACEBOOK que nos perdemos lo que nos interesa, las noticias de páginas interesantes ...  por estar tan abajo :(
+La página de inicio nuestra suele estar tan llena y con la prioridad que manda FACEBOOK que nos perdemos lo que nos interesa.
+
+Las noticias de páginas interesantes ...  ¡están tan abajo!   :(
 
 Con este sencillo truco no perdemos ninguna noticia que nos interesa:
 
