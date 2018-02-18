@@ -4,15 +4,15 @@
 
 ## 1. Soportes
 
-* [Soportes informáticos en la formación del profesorado](index0.md)
-* [Marco legislativo](marco_legislativo.md)
-* [Cada actividad tiene sus particularidades](cada_actividad_tiene_sus_particularidades.md)
-* [Y cada soporte tiene sus particularidades](y_cada_soporte_tiene_sus_particularidades.md)
-* [Ojo! no podemos ver todo](ojo_no_podemos_ver_todo.md)
-* [Vamos a verlo paso a paso](vamos_a_verlo_paso_a_paso.md)
-  * [Soportes en el diseíño](soportes_en_el_diseo.md)
-  * [Soportes en la actividad](soportes_en_la_actividad.md)
-  * [Soportes para interactuar](soportes_para_interactuar.md)
+* [1.1 Soportes](index0.md)
+* [1.2 Marco legislativo](marco_legislativo.md)
+* [1.3 Cada actividad tiene sus particularidades](cada_actividad_tiene_sus_particularidades.md)
+* [1.4 Y cada soporte tiene sus particularidades](y_cada_soporte_tiene_sus_particularidades.md)
+* [1.5 Ojo! no podemos ver todo](ojo_no_podemos_ver_todo.md)
+* [1.6 Vamos a verlo paso a paso](vamos_a_verlo_paso_a_paso.md)
+  * [1.6.1 Soportes en el diseño](soportes_en_el_diseo.md)
+  * [1.6.2 Soportes en la actividad](soportes_en_la_actividad.md)
+  * [1.6.3 Soportes para interactuar](soportes_para_interactuar.md)
 
 ## 2. Diseño
 
