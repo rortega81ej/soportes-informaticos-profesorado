@@ -4,7 +4,7 @@
 Al entrar en Twitter, tenemos un diálogo ¿Qué está pasando? Redactar un nuevo Tweet para crear nuestra primera entrada hasta 280 carácteres
 
 
-![](img/redactar-tweet.png)
+![](img/2017-02-01-redactar_tweet_imagen.png)
 
 pero ¿está limitada la información a los 280 carácteres? NO, aumenta la información:
 
