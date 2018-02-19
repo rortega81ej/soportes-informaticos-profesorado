@@ -16,19 +16,19 @@ A la hora de twittear podemos añadir una **imagen** (logotipo de la cámara) qu
 - Al final del mensaje se puede ver cuanta gente a retwitteado y les ha gustado el mensaje.
 
 
-![](img/bee_bot_Twitter.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/bee_bot_Twitter.png)
 
 ## Enriquece tu información con un enlace
 
 También podemos poner una dirección URL para acceder más información, pero para no gastar los 280 caracteres, te recomendamos algún **acortador de URL** por ejemplo [https://goo.gl/](https://goo.gl/)
 
 
-![](img/2017-02-01_19_19_17-Google_URL_Shortener.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-02-01_19_19_17-Google_URL_Shortener.png)
 
 un ejemplo:
 
 
-![](img/tweet_de_ejemplo.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/tweet_de_ejemplo.png)
 
 
 

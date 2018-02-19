@@ -6,10 +6,10 @@ Ves algo interesante en twitter: Difúndelo, compartelo, lánzalo ..... es decir
 
 ## Retweet sin modificación
 
-![](img/2017-02-01_19_42_10-Twitter.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-02-01_19_42_10-Twitter.png)
 
 ## Retweet con modificación
 
 Igual que antes, pero añadiendo un comentario
 
-![](img/2017-02-01_19_49_08-2017-02-01_19_47_27-Twitter.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-02-01_19_49_08-2017-02-01_19_47_27-Twitter.png)

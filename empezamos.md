@@ -1,6 +1,6 @@
 # Empezamos
 
-![](img/logo_twitter_withbird_1000_allblue.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/logo_twitter_withbird_1000_allblue.png)
 
 En este curso no pretendemos hacer un tutorial de cada herramienta, pero sí que el responsable de formación conozca la herramienta adecuada y destacamos en este curso algunas características que resultan apropiadas para las actividades.
 
@@ -17,4 +17,4 @@ En este curso no pretendemos hacer un tutorial de cada herramienta, pero sí que
     - También se puede ver una visión de nuestra cuenta, el número de tweets, cuantos nos siguen y cuantos seguimos.
     - La zona central se ven de forma cronológica los mensajes de la gente que seguimos. **Timeline**.
 
-![](img/2017-01-31_02_15_15-Twitter.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-01-31_02_15_15-Twitter.png)

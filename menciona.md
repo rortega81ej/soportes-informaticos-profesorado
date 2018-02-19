@@ -20,5 +20,5 @@
         - NO: Haz una respuesta
 
 
-![](img/bee_bot_Twitter.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/bee_bot_Twitter.png)
 
