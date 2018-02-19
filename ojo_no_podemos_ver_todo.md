@@ -13,6 +13,6 @@ Por eso en este curso SE OMITE **DOCEO** no sólo por la extensión que implica 
 
 Es decir, según tus conocimientos, en este curso puedes ver una visión de las herramientas y utilizar más una que otra o atreverte a alguna nueva porque no la conocías y te encaja en tus necesidades.
 
-No están todas!! por supuesto!! Si conoces alguna interesante y te gustaría colaborar, pues ponla!!! no te cortes !!! en este muro:
+¡No están todas por supuesto! Si conoces alguna interesante y te gustaría colaborar, ¡pues ponla no te cortes! Puedes ponerla en este muro de Padlet (Padlet es una herramienta tipo "muro de post-it", muy simple e intuitiva, que viene muy bien para compartir ideas online).
 
 <iframe width="320" height="240" style="width: 100%; height: 608px; display: block;" src="https://padlet.com/embed/5g7l9b1n8sp0" frameborder="0"></iframe>
