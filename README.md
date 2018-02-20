@@ -20,11 +20,11 @@ Es un curso NIVEL BÁSICO y FUNDAMENTAL
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vTpLwrA9R4azCNtPjDTYBG8MEUUqwGNbfN6ZqJh6hA_wnmZ7gEL7i9Tfe45p6nHFButalLn-a-H9RRj/pub?w=1102&h=794)
 
-###Herramientas propuestas durante la ACTIVIDAD
+###Herramientas propuestas preparación de la ACTIVIDAD: COLOCAR LOS CONTENIDOS Y SU POSIBLE PARTICIPACIÓN
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vQxIxwDkW2n_HOXoKH6CH99nMVjB5DdZ3ZblegFpGn4kRAQnJdxTo0ymujP-uioVSfKTCzZwufYB-OR/pub?w=1102&h=794)
 
-###Herramientas propuesta después de la actividad: INTERACCION
+###Herramientas propuesta durante y final de la actividad: INTERACCIÓN Y EVALUACIÓN
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vQjyPahUB6V0V7unIF1DB6pIOyqzFCgOvnEzoU7bzP_musgd7UO2IDENLGD4YjPlX-vmkLDDZ0q16OE/pub?w=1102&h=794)
 
