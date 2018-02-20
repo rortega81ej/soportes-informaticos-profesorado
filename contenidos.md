@@ -2,10 +2,11 @@
 
 ## CMS y LCMS
 
-Para "colgar" los materiales, compartir contenidos, hay que utilizar una plataforma de contenidos. Técnicamente se llama Sistema de Gestión de Contenidos [CMS](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos) (Content Management System) y recomendamos para las actividades dos:
+Para "colgar" los materiales, compartir contenidos, hay que utilizar una plataforma de contenidos. Técnicamente se llama Sistema de Gestión de Contenidos [CMS](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos) (Content Management System) y recomendamos para las actividades tres:
 
 - **Blogger** pensado para hacer blog con Google, es estable y muy sencillo de utilizar
-- **WordPress **tiene un formato flexible, permite formato tipo web y blog y está muy extendido, pero es algo vulnerable
+- **WordPress **tiene un formato flexible, permite formato tipo web y blog y está muy extendido, CATEDU puede proporcionar un espacio WP a los docentes, [se pide aquí](http://soporte.catedu.es/).
+- **Google Sites** dentro de las herramientas de Google, tenemos un poco olvidado esta herramienta, es distinto al formato de Blogger, está más orientado a **página web** no es tipo blog.
 
 No recomendamos **Arablogs** pues es más adecuado para nivel de aula con alumnos que gestión de contenidos de actividades de formación, pero podría servir si ya estás acostumbrado a esta herramienta.
 
@@ -13,7 +14,7 @@ Otra necesidad es una plataforma de espacio de trabajo, o Aula Virtual, es decir
 
 ## Estáticos
 
-**ExeLearning** es una herramienta para colgar contenidos pero totalmente estático, pero permite exportarlo en formato página web y subirlo a un servidor, por ejemplo este curso, lo que estas leyendo está realizado con ExeLearning y subido a la plataforma Moodle.
+**Gitbook** es una herramienta para crear **libros **digitales, su formato es más estático que los anteriores, por eso lo hemos puesto en otra categoría, adecuado para un formato tipo libro. Lo que estás leyendo está creado y colgado en GitBook.
 
 ## Participación
 
