@@ -77,7 +77,7 @@
 
 * [5.0 Interacción](index4.md)
 * [5.1 Recuerda](recuerda.md)
-* [5.2 Streaming en directo con Hangout](streaming_en_directo_con_hangout.md)
+* [5.2 Streaming](streaming_en_directo_con_hangout.md)
 * [5.3 Twitter](twitter4.md)
   * [5.3.1 Hashtag](hashtag.md)
   * [5.3.2 Embeber botón Hashtag](embeber_botn_hashtag.md)
