@@ -16,3 +16,7 @@ La creación de libros con texto es tan fácil que no se necesita tutorial.
 Para algo más avanzado, requiere manejarte en la ventana de código (opción _Edit Markdown_):
 
 - [Un breve resumen de Markdown](https://cookies-ruben.herokuapp.com/Cap2/Markdown.html) 
+
+## Consejo
+
+Si tu material a crear tiene mucho contenido textual, imágenes.. es decir tipo **libro**, es la herramienta adecuada, si por lo contrario quieres embeber, foros... es más recomendable otra herramienta tipo blog, wordpress, google sites...
