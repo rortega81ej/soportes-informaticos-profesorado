@@ -62,15 +62,16 @@
   * [4.6.2 Escribir una entrada](escribir_una_entrada.md)
   * [4.6.3 Categorí­as, etiquetas y publicar](categoras_etiquetas_y_publicar.md)
   * [4.6.4 Avanzando](avanzando.md)
-* [4.7 Moodle](moodle.md)
+* [4.7 Google Sites](47-google-sites.md)
+* [4.8 Moodle](moodle.md)
   * [4.7.1 Colgar contenido](colgar_contenido.md)
   * [4.7.2 Poner actividad](poner_actividad.md)
   * [4.7.3 Matricular participantes](matricular_participantes.md)
   * [4.7.4 Tutorizar](tutorizar.md)
-* [4.8 EdModo](edmodo.md)
-* [4.9 GitBook](exelearning.md)
-* [4.10 Muro Padlet](muro_padlet.md)
-* [4.11 Fotos](fotos.md)
+* [4.9 EdModo](edmodo.md)
+* [4.10 GitBook](exelearning.md)
+* [4.11 Muro Padlet](muro_padlet.md)
+* [4.12 Fotos](fotos.md)
 
 ## 5. Interacción
 
