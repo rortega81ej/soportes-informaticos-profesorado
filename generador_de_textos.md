@@ -1,4 +1,4 @@
-# Generador de textos
+# 2.7 Generador de textos
 
 Para la cartelería, folletos, incluso para la pagina web de contenidos, es útil tener acceso a páginas donde online se generan textos (animados o no) es muy sencillo de utilizar:
 

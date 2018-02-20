@@ -1,4 +1,4 @@
-# CANVA
+# 2.8 CANVA
 
 Es una herramienta on-line [www.canva.com](http://www.canva.com) que permite diseñar carteles, posters, presentación... en general cualquier infografía. 
 
