@@ -88,4 +88,5 @@
   * [5.4.2 Cómo se envía](cmo_se_enva.md)
   * [5.4.3 Y si lo pruebas](y_si_lo_pruebas.md)
   * [5.4.4 Alternativa PlayBuzz](alternativa_playbuzz.md)
+* [Créditos](creditos.md)
 
