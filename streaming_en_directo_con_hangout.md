@@ -2,6 +2,10 @@
 
 Muchas veces necesitamos abrir nuestra actividad al exterior, que cualquiera pueda verlo EN DIRECTO, abrir UN FORO en directo para que la gente pueda preguntar, comentar... y luego queda todo grabado para futuras consultas.
 
+#Papeles orientativos
+
+A modo de orientación te facilitamos [los siguiente documentos ](https://drive.google.com/drive/folders/13Fh8PP-KSVjar1qpNNiLkD5ByPV8UpwY?usp=sharing). Son documentos que te facilitan algunas cuestiones que no hay que olvidar. 
+
 #¿Cómo lo hago?
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkgvS_sa7MdTd-mv_HCbaAVN4MGYLxn3IhXQeQO0uaVUqG6CB5ObZHQQC8uq76N2MLkEQHrdm4JY5s/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
