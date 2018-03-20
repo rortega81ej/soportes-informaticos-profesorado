@@ -1,7 +1,7 @@
 
 # SCRIBUS -Toque profesional
 
-No te asustes, no vamos a explicar nada de Scribus, en [Aularagón tienes un curso](http://moodle.catedu.es/course/view.php?id=50), pero queremos destacar esta herramienta como la más adecuada para la maquetación
+No te asustes, no vamos a explicar nada de Scribus, en [Aularagón tienes un tutorial del curso](https://www.gitbook.com/book/catedu/scribus-maqueta-visualmente-tus-contenidos-educat/details), pero queremos destacar esta herramienta como la más adecuada para la maquetación, eso sí, es algo engorrosa.
 
 - [Introducción al grafismo](https://catedu.gitbooks.io/scribus-maqueta-visualmente-tus-contenidos-educat/content/index0.html)
 - [Uso básico de Scribus](https://catedu.gitbooks.io/scribus-maqueta-visualmente-tus-contenidos-educat/content/index1.html)
