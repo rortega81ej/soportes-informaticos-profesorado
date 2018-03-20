@@ -27,7 +27,7 @@
   * [2.4.2 Publicar](publicar.md)
   * [2.4.3 Dibujos](dibujos.md)
 * [2.5 SCRIBUS -Toque profesional](scribus_toque_profesional.md)
-* [2.6 CANVA](canva.md)
+* [2.6 GENIALLY](canva.md)
 * [2.7 Generador de textos](generador_de_textos.md)
 * [2.8 ¿Qué tal si añades un QR?](qu_tal_si_aades_un_qr.md)
 * [2.9 Imágenes](imgenes.md)
