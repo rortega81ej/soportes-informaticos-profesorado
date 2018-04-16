@@ -1,6 +1,6 @@
 # Te toca a ti
 
-En Twitter no hay que tener vergüenza, pero sí que no hay que meter la pata. Poner algo que sea de interés para otros pero no ser un pesado.. o sea: el sentido común. Y por supuesto [no seas un Trol y si topas con uno, no lo cebes](https://es.wikipedia.org/wiki/Trol_(Internet)).
+En Twitter no hay que tener vergüenza, pero sí que no hay que meter la pata. Poner algo que sea de interés para otros pero no ser un pesado.. o sea: el sentido común. Y por supuesto [no seas un Trol y si topas con uno, no lo cebes](https://goo.gl/P7R27a).
 
 Lánzate, entra en tu twitter, y lanza una idea, un tweet, ponle esta palabra #soportesformacion (es un hashtag lo veremos más adelante)
 
