@@ -15,3 +15,5 @@ Vamos a ver si lo entendemos... dos personas pueden interactuar en este chat [ht
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR502ldGnP6gJuGDK97WS0xrJnmZCeg85c5bKAhO35Ecb44MbIVTUgZkgDptpz2r0RCeoDW7JNs1km5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+# ¿Funciona?¿la gente participa?
+Vaya que sí, en nuestros cursos de robótica se ha creado un grupo que participa con proyectos, dudas, compartir ideas, eventos.... [mira por ejemplo este curso](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/chat-robotica-educativa-aragon.html)
