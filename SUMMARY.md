@@ -2,6 +2,7 @@
 
 * [Introducción](README.md)
 
+
 ## 1. Soportes
 
 * [1.1 Soportes](index0.md)
@@ -89,5 +90,7 @@
   * [5.4.3 Y si lo pruebas](y_si_lo_pruebas.md)
   * [5.4.4 Alternativa PlayBuzz](alternativa_playbuzz.md)
 * [5.5 ChatBro](55-chatbro.md)
+* [5.6 Slido](56-slido.md)
+
 * [Créditos](creditos.md)
 
