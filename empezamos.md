@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/logo_twitter_withbird_1000_allblue.png)
 
-En este curso no pretendemos hacer un tutorial de cada herramienta, pero sí que el responsable de formación conozca la herramienta adecuada y destacamos en este curso algunas características que resultan apropiadas para las actividades.
+En este curso no pretendemos hacer un tutorial de cada herramienta, pero sí que se conozca la herramienta adecuada y destacamos en este curso algunas características que resultan apropiadas para las actividades.
 
 **Twitter** es una de ellas, por eso saldrá en numerosas ocasiones dentro de este curso. Aquí vamos a centrarnos en la divulgación.
 
