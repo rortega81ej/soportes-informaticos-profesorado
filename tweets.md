@@ -20,12 +20,24 @@ A la hora de twittear podemos añadir una **imagen** (logotipo de la cámara) qu
 
 ## Enriquece tu información con un enlace
 
-También podemos poner una dirección URL para acceder más información, pero para no gastar los 280 caracteres, te recomendamos algún **acortador de URL** por ejemplo [https://goo.gl/](https://goo.gl/)
+También podemos poner una dirección URL para acceder más información, pero para no gastar los 280 caracteres, te recomendamos algún **acortador de URL** por ejemplo 
+
+quiero acortar esta URL
+
+https://catedu.gitbooks.io/soportes-informaticos-para-la-formacion-del-profe/content/tweets.html
+
+Voy a la página http://cortas.elpais.com/ (existen muchas pon en Google "acortador URL")
+
+![](/assets/2019-09-05 13_02_24-Window.png)
+
+Y se convierte en 
+
+![](/assets/2019-09-05 13_01_52-Window.png)
+
+http://cort.as/-PLpZ
 
 
-![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-02-01_19_19_17-Google_URL_Shortener.png)
-
-un ejemplo:
+un ejemplo de Tweet con URL corto :
 
 
 ![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/tweet_de_ejemplo.png)
