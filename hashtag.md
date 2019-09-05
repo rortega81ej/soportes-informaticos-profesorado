@@ -24,11 +24,11 @@ Permite crear un micro-foro con cualquiera usando Twitter pues conecta varias pe
     - Podemos poner en la página web de la actividad los tweets y un botón para twittear
     - Vamos a hacerlo con el hashtag [#soportesformacion](https://twitter.com/search?q=%23soportesformacion&amp;src=typd) 
 
-## Vamos a embeberlo
+## ¿Se puede embeber ?
 
-En las siguientes páginas vamos ha hacerlo con el hashtag [#soportesformacion](https://twitter.com/search?q=%23soportesformacion&amp;src=typd) 
+Estos hastag se pueden insertar en tu página Web, blog... 
 
-- Primero cómo poner un botón para twittear diréctamente en un hastag
-- Segundo como visualizar los Tweet integrados del hastag
-- Tercero cómo queda ¡¡te animamos que participes !! twittea algo ¡¡vamos!!!
+* [aquí tienes cómo embeber un botón hashtag](https://catedu.gitbooks.io/soportes-informaticos-profesorado/content/embeber_botn_hashtag.html)
+* [aquí como embeber un hashtag entero](https://catedu.gitbooks.io/soportes-informaticos-profesorado/content/embeber_tweets_hashtag.html)
+* [aquí como queda](https://catedu.gitbooks.io/soportes-informaticos-profesorado/content/cmo_queda_vamos_a_verlo_soportesformacion.html)
 
