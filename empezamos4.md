@@ -10,7 +10,7 @@ Los resultados se almacenan en una hoja de cálculo que automáticamente se crea
 
 Entramos en Google - Drive con nuestra cuenta y abrimos un nuevo formulario:
 
-![](img/Menu_009.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/Menu_009.png)
 
 **Creas** las preguntas, es muy intuitivo, vamos a señalar es que hay 
 

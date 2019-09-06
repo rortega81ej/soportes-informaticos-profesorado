@@ -19,7 +19,7 @@ También cuando proyectamos una información con el proyector y queremos que la 
 Estamos proyectando un tema muy interesante ;) **"Soportes para la formación del profesorado"** y queremos que la audiencia nos vaya twitteando lo que opinan, en el hastag **#soportesformacion** (lo veremos más adelante) aquí tienes el QR que se proyectaría, pruébalo!!!
 
 
-![](img/38a78f6b582e7a6510755103bc9faaad.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/38a78f6b582e7a6510755103bc9faaad.png)
 
 tienes que ver más o menos algo así en el móvil 
 

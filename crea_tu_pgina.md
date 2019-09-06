@@ -5,12 +5,12 @@ Para crear tu página tienes que estar de alta en Facebook de forma **personal**
 
 Una vez que estas registrado de forma personal en Facebook puedes crear una página genérica
 
-![](img/crear-pagina-facebook.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/crear-pagina-facebook.png)
 
 ## Ser administrador de una página ya creada
 
 Se pueden añadir administradores u otros roles a la página
 
 
-![](img/2017-02-01_20_39_10-.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-02-01_20_39_10-.png)
 

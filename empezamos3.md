@@ -16,13 +16,13 @@ Recibirás el usuario y la contraseña y tenemos que diferenciar dos direccione
 
 El backend sólo es accesible con tu usuario y contraseña y pide solucionar un Campcha
 
-![](img/2017-02-04_13_14_20-CATEDU_INSTRUCCIONES_EDITORES_DE_WORDPRESS_-_PDF-XChange_Viewer.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-02-04_13_14_20-CATEDU_INSTRUCCIONES_EDITORES_DE_WORDPRESS_-_PDF-XChange_Viewer.png)
 
 ## Cambiar los datos propios del perfil
 
 Correo electrónico, alias, web, nombre en Twitter, imagen y generar nueva contraseña si se considera necesario
 
-![](img/perfilWP.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/perfilWP.png)
 
 
 

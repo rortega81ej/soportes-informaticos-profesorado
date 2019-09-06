@@ -11,5 +11,5 @@ En el [manual de Raul Diego](http://www.rauldiego.es/manual-blogger/) hemos apre
 
 
 
-![](img/bloger-articulo.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/bloger-articulo.png)
 

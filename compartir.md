@@ -8,7 +8,7 @@ Este curso no pretende hacer tutoriales de Google Drive,[en Aularagon tienes un 
 
 Es la mejor herramienta que tiene los Documentos de Drive, con este enlace, se lo envías a otra persona y puede colaborar en el documento.
 
-![](img/2017-01-28_18_36_59-Copia_de_AULARAGON_SEGUNDA-CONVOCATORIA_-_Documentos_de_Google.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-01-28_18_36_59-Copia_de_AULARAGON_SEGUNDA-CONVOCATORIA_-_Documentos_de_Google.png)
 
 ## ATREVETE CON UN DOCUMENTO
 

@@ -6,7 +6,7 @@ Una vez que tenemos el documento ya finalizado, podemos publicarlo en las redes 
 
 No recomendamos **Archivo - Publicar en la Web** pues en el caso de los Documentos se trastoca todo [ver ejemplo](https://docs.google.com/document/d/1bu1apdbeQ69VH2bBJYrJZxn9BXGE9TY6m0hyVAHBmMI/pub)
 
-![](img/2017-01-28_18_25_28-AULARAGON_SEGUNDA-CONVOCATORIA_-_Documentos_de_Google.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-01-28_18_25_28-AULARAGON_SEGUNDA-CONVOCATORIA_-_Documentos_de_Google.png)
 
 En enlace es algo largo:
 
@@ -18,4 +18,4 @@ Siempre lo podemos acortar para publicarlo, o en un código QR : [https://goo.g
 
 Aunque con el sistema anterior no hace falta pasarlo a PDF, no obstante en plataformas como DOCEO hay que publicarlo como PDF:
 
-![](img/2017-01-28_18_32_21-AULARAGON_SEGUNDA-CONVOCATORIA_-_Documentos_de_Google.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-01-28_18_32_21-AULARAGON_SEGUNDA-CONVOCATORIA_-_Documentos_de_Google.png)

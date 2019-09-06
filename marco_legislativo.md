@@ -7,5 +7,5 @@
 - [ORDEN de 18 de mayo de 2015](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&amp;MLKOB=859076685454), de la Consejera de Educación, Universidad, Cultura y Deporte, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado
     - Articulo 12 Diseño de actividades, apartado k) *Sistema de difusión que se hará de la actividad, incluyendo la página Web que se vaya a utilizar.*
 
-![](img/2017-01-27_07_34_00-Man_Wearing_Blue_Blazer_on_Business_Meeting_Free_Stock_Photo_Download___picjumbo.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-01-27_07_34_00-Man_Wearing_Blue_Blazer_on_Business_Meeting_Free_Stock_Photo_Download___picjumbo.png)
 

@@ -16,19 +16,19 @@ A veces en una actividad presencial, se crean fotos y todo el mundo necesita ver
 2.- Creas un Album
 
 
-![](img/Screenshot1.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/Screenshot1.png)
 
 3.- Se abre una ventana para arrastrar las fotos
 
 
-![](img/Screenshot2.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/Screenshot2.png)
 
 ## 
 
 4.- .En la barra de menús de Flickr selecciona **"Tus álbumes".**
 
 
-![](img/flickr1.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/flickr1.png)
 
 
 
@@ -37,11 +37,11 @@ A veces en una actividad presencial, se crean fotos y todo el mundo necesita ver
 **OJO EL ÁLBUM, NO LA FOTO !!!!**
 
 
-![](img/flickr1.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/flickr1.png)
 
 6.- Y luego sale el código embed en Insertar:
 
-![](img/flickr-2.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/flickr-2.png)
 
 **Ojo, que hay que compartir EL ÁLBUM no la foto**
 

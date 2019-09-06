@@ -13,8 +13,8 @@ Aquí no vamos ha hacer un tutorial de Word, si quieres hacer un curso [entra en
 - **Expórtalo como PDF**, si publicas en Word, el otro usuario puede verlo descuadrado porque no tiene las letras instaladas o simplemente no tiene porqué tener el Word instalado.
 - Pega correctamente: Hay gente que copia de una web y pega, y se queda tan tranquilo, totalmente descuadrado, aprende a pegar sin formato.
 
-![](img/26-05-2016_19-45-08.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/26-05-2016_19-45-08.png)
 
-![](img/2017-01-28_08_55_49-Pegado_especial.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-01-28_08_55_49-Pegado_especial.png)
 
 <iframe src="https://giphy.com/embed/ZMysVBRp04dhK" width="480" height="404" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/i-want-ZMysVBRp04dhK">via GIPHY</a></p>

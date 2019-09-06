@@ -13,4 +13,4 @@ Toda actividad conlleva un trasiego de información:
 
 No es necesario hacer aquí filosofías baratas de la evidencia actual, una imagen vale más que mil palabras:
 
-![](img/diferentes-tipos-de-soporte.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/diferentes-tipos-de-soporte.png)

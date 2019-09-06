@@ -1,6 +1,6 @@
 # Moodle
 
-![](img/descarga.jpg)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/descarga.jpg)
 
 Si la actividad tiene parte que se tiene que hacer en red, lo mejor es pedir un curso en Moodle y colgar las actividades allí, pues las actividades de formación en red necesitan de una plataforma de seguimiento y control donde tiene que haber:
 

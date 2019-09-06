@@ -8,4 +8,4 @@ La **interactividad** permitirá que los asistentes participen, enriquezcan la a
 
 Y si es con humor mejor...
 
-![](img/fratocollage.png.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/fratocollage.png.png)

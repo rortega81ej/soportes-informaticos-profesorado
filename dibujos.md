@@ -6,16 +6,16 @@ Es un editor sencillo para crear dibujos, pero lo que destacamos es su posibilid
 
 La de Compartir es igual que un documento de Google que hemos visto pero la de embeber, se realiza en **Archivo** -  **Publicar en la Web**
 
-![](img/2017-01-28_18_44_41-Compartido_conmigo_-_Google_Drive.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-01-28_18_44_41-Compartido_conmigo_-_Google_Drive.png)
 
-![](img/2017-01-28_18_47_29-Copia_de_Pensamiento_computacional_-_herramientas_-_Dibujos_de_Google.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-01-28_18_47_29-Copia_de_Pensamiento_computacional_-_herramientas_-_Dibujos_de_Google.png)
 
 Y tenemos dos opciones
 
 - La opción de que nos crea un enlace, por ejemplo este [enlace](https://docs.google.com/drawings/d/1gffyIG6EAikhO8fJyfxjOtnpwA2GJjCjNG5Wo9aZG0c/pub?w=960&amp;h=720).
 - La opción de **embeberlo en Insertar**
 
-![](img/2017-01-28_18_56_28-Copia_de_Pensamiento_computacional_-_herramientas_-_Dibujos_de_Google.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/img/2017-01-28_18_56_28-Copia_de_Pensamiento_computacional_-_herramientas_-_Dibujos_de_Google.png)
 
 Podemos ver cual es el efecto de embeberlo.** ¿Qué ventajas tiene?** La modificación de la imagen se actualiza automáticamente, cualquier cambio automáticamente es publicado.
 
