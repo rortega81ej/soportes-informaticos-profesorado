@@ -6,7 +6,7 @@ Para "colgar" los materiales, compartir contenidos, hay que utilizar una platafo
 
 - **Blogger** pensado para hacer blog con Google, es estable y muy sencillo de utilizar
 - **WordPress **tiene un formato flexible, permite formato tipo web y blog y está muy extendido, CATEDU puede proporcionar un espacio WP a los docentes, [se pide aquí](http://soporte.catedu.es/).
-- **Google Sites** dentro de las herramientas de Google, tenemos un poco olvidado esta herramienta, es distinto al formato de Blogger, está más orientado a **página web** no es tipo blog.
+- **Google Sites** dentro de las herramientas de Google. Está injustamente algo olvidado pero es una herramienta muy sencilla para crear unos contenidos y permite ser colaborativo. Está más orientado a **página web** no es tipo blog.
 
 Otra necesidad es una plataforma de espacio de trabajo, o Aula Virtual, es decir un Sistema de Gestión de Aprendizaje [LCMS](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_aprendizaje) (Learning Content Management System), donde no sólo se necesita tener contenidos, sino actividades, evaluar, seguimiento, tutorización ... el mejor ejemplo es el **Moodle** (donde está montado este curso), otro ejemplo es **Google Classroom **muy recomendable en actividades con numerosa documentación ya que todo se gestiona integrado en el Drive.
 
