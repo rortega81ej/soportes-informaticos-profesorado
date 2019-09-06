@@ -28,11 +28,11 @@ https://catedu.gitbooks.io/soportes-informaticos-para-la-formacion-del-profe/con
 
 Voy a la página http://cortas.elpais.com/ (existen muchas pon en Google "acortador URL")
 
-![](/assets/2019-09-06 10_20_08-Window.jpg)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/assets/2019-09-06 10_20_08-Window.jpg)
 
 Y se convierte en 
 
-![](/assets/2019-09-06 10_20_21-Window.jpg)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/assets/2019-09-06 10_20_21-Window.jpg)
 
 http://cort.as/-PLpZ
 
