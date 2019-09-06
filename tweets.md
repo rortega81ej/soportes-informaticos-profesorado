@@ -20,7 +20,7 @@ A la hora de twittear podemos añadir una **imagen** (logotipo de la cámara) qu
 
 ## Enriquece tu información con un enlace
 
-También podemos poner una dirección URL para acceder más información, pero para no gastar los 280 caracteres, te recomendamos algún **acortador de URL** por ejemplo 
+También podemos poner una dirección URL para acceder más información, pero para que tu tweet no sea un *chorizo de URL*, te recomendamos algún **acortador de URL** por ejemplo 
 
 quiero acortar esta URL
 
