@@ -22,4 +22,4 @@ Por ejemplo, en el siguiente Tweet menciona a @escornabot y a @catedu_es para qu
 * el usuario y seguidores de @catedu_es
 * el usuario y seguidores de @escornabot
 
-![](/assets/escornabot.png)
+![](https://raw.githubusercontent.com/catedu/soportes-informaticos-profesorado/master/assets/escornabot.png)
