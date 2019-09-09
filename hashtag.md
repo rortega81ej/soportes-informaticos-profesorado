@@ -22,7 +22,9 @@ Permite crear un micro-foro con cualquiera usando Twitter pues conecta varias pe
     
 - **Chats asincronos**: Por ejemplo este curso es on-line y cualquier persona entra y sale a cualquier hora, podemos crear un foro donde comentar lo que queramos (más o menos lo que hicimos en el muro del Tema 2)
     - Podemos poner en la página web de la actividad los tweets y un botón para twittear
-    - Vamos a hacerlo con el hashtag [#soportesformacion](https://twitter.com/search?q=%23soportesformacion&amp;src=typd) 
+    - En este curso lo vas a hacer
+        - En el curso de Soportes en [#soportesformacion](https://twitter.com/search?q=%23soportesformacion&amp;src=typd)
+        - En el curso de RRSS lo vas a hacer en  ##RRSSAULARAGON
 
 ## ¿Se puede embeber ?
 
