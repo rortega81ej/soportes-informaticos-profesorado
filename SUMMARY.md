@@ -1,6 +1,7 @@
 # Summary
 
 * [Introducción](README.md)
+* [3.2.4 Grupos](324-grupos.md)
 
 ## 1. Soportes
 
