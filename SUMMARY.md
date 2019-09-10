@@ -1,7 +1,6 @@
 # Summary
 
 * [Introducción](README.md)
-* [3.2.4 Grupos](324-grupos.md)
 
 ## 1. Soportes
 
@@ -47,6 +46,7 @@
   * [3.2.1 Crea tu página](crea_tu_pgina.md)
   * [3.2.2 Difunde](difunde.md)
   * [3.2.3 Mira lo que tú quieres](mira-lo-que-tu-quieres.md)
+  * [3.2.4 Grupos](324-grupos.md)
 
 ## 4. Contenidos y participación
 
