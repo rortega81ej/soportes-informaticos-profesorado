@@ -1,6 +1,7 @@
 
 # Avanzando
 
+Lo sentimos, los vídeos no están disponibles de momento
 
 {% youtube %}https//www.youtube.com/watch?v=4pmuqeh8sJA{% endyoutube %}
 
